@@ -1,3 +1,1 @@
 # Agile
-
-print: "gratftadfg"
